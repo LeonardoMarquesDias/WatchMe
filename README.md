@@ -73,6 +73,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-[Leonardo Dias](https://gist.github.com/LeonardoMarquesDias) 😎
+[Leonardo Dias](https://github.com/LeonardoMarquesDias) 😎
 
 
