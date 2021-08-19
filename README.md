@@ -42,7 +42,7 @@ efetuar um componentização da aplicação pois a mesma se encontra toda no arq
 $ mkdir react-ignite-components
 
 # Clone este repositório para a pasta anterior
-$ git clone https://github.com/brunoemferreira/rocketseat-ignite-react-desafio-componentizando-a-aplicacao.git
+$ git clone https://github.com/LeonardoMarquesDias/WatchMe.git
 # ou use a opção de download.
 
 # Instale as dependências
