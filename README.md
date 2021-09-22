@@ -4,7 +4,7 @@
 
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
 
-<h2 align="center"> Desafio 02 : Componentizando a aplicação ( Projeto WatchMe ) </h2>
+<h2 align="center"> Desafio 02 : Componentizinga aplicação ( Projeto WatchMe ) </h2>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
